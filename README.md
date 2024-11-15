@@ -85,7 +85,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
     receive_file(filename, client_socket)
 ```
 
-## OUPUT:
+## OUTPUT:
 ### Server output:
 ![](./Screenshot%202024-11-14%20091904.png)
 ### Client output:
